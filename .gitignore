@@ -1,0 +1,10 @@
+﻿################################################################################
+# Este archivo .gitignore ha sido creado automáticamente por Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/Iris.Infraestructure/obj
+/IrisApi/.vs
+/IrisApi/obj
+/Iris.Domain/obj
+/Iris.Application/obj
