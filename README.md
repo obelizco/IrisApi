@@ -2,8 +2,7 @@
 
 ## Descripción  📌
 Este proyecto es una API desarrollada en **.NET 8** siguiendo los principios de **Arquitectura Limpia** (*Clean Architecture*) para gestionar tareas (*ToDo*).  
-Incluye **autenticación JWT** y un sistema de usuarios.
-
+Incluye **autenticación JWT** y un sistema de usuarios. 
 ## Arquitectura del Proyecto  📂
 El proyecto está estructurado en las siguientes capas:
 
@@ -57,6 +56,7 @@ Para una implementación persistente, se recomienda integrar una base de datos c
 
 
 ## Configuración del Proyecto 🚀
+Actualmente no tengo los recursos de Azure y por parte de la WEB pudiera desplegar en muchas sitios normalmente uso (Netifly,Vercel entre otros). 
 _Clonar el repositorio_
 
 bash
